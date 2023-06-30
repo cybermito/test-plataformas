@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQPAA8AAABmZmZmZmZmBmZmZmZmZmYGZmYRERFhZgZmFv///x9mBmbx/////2EGZvH/////YQZm8f////9hBmbx/////2EGZvEf8f//YQZm8R/x//9hBmbx/////2EGZhb///8fZgZmZhEREWFmBmZmZmZmZmYGZmZmZmZmZgY=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ojo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
